@@ -88,9 +88,12 @@ the original DM21cm setup.
 
 ## Citation
 
-If you use this code, please cite the relevant original software and
-methodology papers listed above, in particular the DM21cm and SASHIMI
-references.
+## Citation
+
+If you use this code, please cite the associated paper:
+- arXiv:2609.21479
+Please also cite the relevant original software and methodology papers listed
+above, in particular the DM21cm and SASHIMI references.
 
 
 
